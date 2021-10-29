@@ -37,7 +37,7 @@ public class UseOfArray02 {
 /*
  * 
  * Info regarding this array: java.util.Arrays Class-->This class contains
- * various methods for manipulating arrays (such as sorting and searching).
+ * various methods for manipulating array (such as sorting and searching).
  * 
  * 
  * 1. Arrays.sort(ref);--->sorts the specified array of bytes into ascending

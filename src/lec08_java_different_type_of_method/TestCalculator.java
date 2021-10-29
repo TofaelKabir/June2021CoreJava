@@ -41,10 +41,6 @@ public class TestCalculator {
 		calculator07.multiplication();
 		
 		System.out.println("\n-------------------------------------");
-		Employee employee = new Employee();
-		employee.empInfo(2188458, "Mohammad", "Sharkar", 'M', false);
-		
-		System.out.println("\n-------------------------------------");
 		Student student = new Student();
 		student.stID(20210089, "Bill", "Gates", 'M', true);
 		
