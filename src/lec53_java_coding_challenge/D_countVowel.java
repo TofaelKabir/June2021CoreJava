@@ -2,7 +2,7 @@ package lec53_java_coding_challenge;
 
 // || logical or operator, if one condition is true, then the all are true even rest are false
 
-public class CountVowel {
+public class D_countVowel {
 
 	public static void main(String[] args) {
 		String s = "ziyad alz khilanliez";

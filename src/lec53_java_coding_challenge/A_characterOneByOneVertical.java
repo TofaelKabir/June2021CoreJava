@@ -1,6 +1,6 @@
 package lec53_java_coding_challenge;
 
-public class CharacterOneByOneVertical {
+public class A_characterOneByOneVertical {
 
 	public static void main(String[] args) {
 		String s = "Tofael Kabir";

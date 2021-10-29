@@ -1,6 +1,6 @@
 package lec53_java_coding_challenge;
 
-public class FindMoreThanOneElement {
+public class I_findMoreThanOneElement {
 
 	public static void main(String[] args) {
 		String [] name= {"java", "Selenium", "hello", "java", "Selenium", "java", "hello"};

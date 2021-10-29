@@ -1,7 +1,7 @@
 package lec53_java_coding_challenge;
 
 
-public class CountASpecificCharacter {
+public class C_countASpecificCharacter {
 
 	public static void main(String[] args) {
 		String s = "Ziyad Alz Khilanliez";

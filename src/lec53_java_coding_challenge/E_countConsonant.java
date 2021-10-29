@@ -2,7 +2,7 @@ package lec53_java_coding_challenge;
 
 // && logical and operator, if all the condition is true, then the final outcome is true
 
-public class CountConsonant {
+public class E_countConsonant {
 
 	public static void main(String[] args) {
 		String s = "ziyad alz khilanliez";

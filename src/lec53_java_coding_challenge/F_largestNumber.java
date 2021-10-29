@@ -1,6 +1,6 @@
 package lec53_java_coding_challenge;
 
-public class LargestNumber {
+public class F_largestNumber {
 
 	public static void main(String[] args) {
 		int [] number = {100, 77, 1, 5, 6, 6, 8, 55, 7, 8, 5, 56, 323, 2, 44, 12, 456, 6, 4, 5, 5};
