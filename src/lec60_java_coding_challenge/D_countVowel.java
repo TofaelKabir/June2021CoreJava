@@ -1,4 +1,4 @@
-package lec53_java_coding_challenge;
+package lec60_java_coding_challenge;
 
 // || logical or operator, if one condition is true, then the all are true even rest are false
 

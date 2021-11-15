@@ -1,4 +1,4 @@
-package lec53_java_coding_challenge;
+package lec60_java_coding_challenge;
 
 //TODO Nasir
 public class I_findMoreThanOneElement {
