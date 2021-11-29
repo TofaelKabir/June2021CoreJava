@@ -1,24 +1,26 @@
 package lec60_java_coding_challenge;
 
-//TODO Nasir
+import java.util.HashSet;
+import java.util.Set;
+
 public class I_findMoreThanOneElement {
 
 	public static void main(String[] args) {
-		String [] name= {"java", "Selenium", "hello", "java", "Selenium", "java", "hello"};
-		
-		for(int i =0; i<name.length; i++) {
-			
-			for(int j=i+1; j<name.length; j++) {
-				
-				if(name[i].equals(name[j])) {
-					
-					System.out.println("The duplicate name is: "+name[i]);
-				
+		String[] names = { "java", "Selenium", "hello", "hi", "java", "selenium", "java", "hello", "Bye" };
+		Set<String> duplicateStrings = new HashSet<String>();
+
+		for (int i = 0; i < names.length; i++) {
+
+			for (int j = i + 1; j < names.length; j++) {
+
+				if (names[i].equals(names[j])) {
+					duplicateStrings.add(names[i]);
+
 				}
 			}
 		}
+		System.out.println(duplicateStrings);
 
 	}
 
 }
-
