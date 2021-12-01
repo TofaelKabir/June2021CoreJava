@@ -1,4 +1,4 @@
-package lec60_java_coding_challenge;
+package lec64_java_coding_challenge;
 import java.util.HashSet;
 import java.util.Set;
 public class J_findMoreThanOneNumber {

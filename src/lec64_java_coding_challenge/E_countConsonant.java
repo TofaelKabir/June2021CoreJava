@@ -1,4 +1,4 @@
-package lec60_java_coding_challenge;
+package lec64_java_coding_challenge;
 
 // && logical and operator, if all the condition is true, then the final outcome is true
 
